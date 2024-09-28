@@ -1,1 +1,5 @@
 # streaming-service
+
+## Frontend
+
+## Backend 
